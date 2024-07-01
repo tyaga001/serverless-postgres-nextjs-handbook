@@ -1,5 +1,7 @@
 # Serverless Postgres Next.js Handbook
 
+![App Screenshot](images/app-screenshot.png)
+
 Welcome to the Serverless Postgres Next.js Handbook. Follow these steps to get started:
 
 ## Getting Started
