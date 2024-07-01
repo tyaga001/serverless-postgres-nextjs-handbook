@@ -28,6 +28,7 @@ Create a [Neon project](https://neon.tech/docs/introduction) and copy your conne
   ```bash
   NEON_DATABASE_URL=
   ```
+
 5. Set up Clerk application:
 
 Create a [Clerk application project](https://clerk.com) and copy your credentials into the `.env.local` file.
@@ -43,34 +44,44 @@ Execute the command - `npm run db-create` within your terminal.
   ```bash
   npm run dev
   ```
+8. Open the application in your browser:
+
+Navigate to http://localhost:3000 to view the app.
+
+## Next Steps
+
+- Explore [Neon's documentation](https://neon.tech/docs) for advanced features and API references.
+- Learn more about [Clerk](https://clerk.com) for user authentication and management.
+- Check out the [Next.js documentation](https://nextjs.org/docs) for optimizing your application performance.
 
 ## Next Steps with Neon
 
 1. **Explore Neon Docs:**
-   - Dive into <Link href="https://neon.tech/docs">Neon's documentation</Link> for comprehensive guides and API references.
+   - Dive into [Neon's documentation](https://neon.tech/docs) for comprehensive guides and API references.
 
 2. **Discover Best Practices:**
-   - Learn best practices for optimizing db performance with Neon's <Link href="https://neon.tech/guides">guides</Link>.
+   - Learn best practices for optimizing db performance with Neon's [guides](https://neon.tech/guides).
 
 3. **Stay Updated:**
-   - Read about the latest features and updates on the Neon <Link href="https://neon.tech/blog">blog</Link>.
+   - Read about the latest features and updates on the Neon [blog](https://neon.tech/blog).
 
 4. **See Case Studies:**
-   - Explore how companies are using Neon in real-world scenarios on <Link href="https://neon.tech/case-studies">case studies</Link> page.
+   - Explore how companies are using Neon in real-world scenarios on [case studies](https://neon.tech/case-studies) page.
 
 5. **Enterprise Solutions:**
-   - Learn how Neon can support enterprise needs on <Link href="https://neon.tech/enterprise">enterprise</Link> page.
+   - Learn how Neon can support enterprise needs on [enterprise](https://neon.tech/enterprise) page.
 
 6. **Branching Strategies:**
-   - Discover effective branching strategies with Neon on <Link href="https://neon.tech/branching">branching</Link> page.
+   - Discover effective branching strategies with Neon on [branching](https://neon.tech/branching) page.
 
 7. **Join the Neon Community:**
-   - Engage with the Neon community on <Link href="https://neon.tech/discord">discord</Link> and stay updated with the latest developments.
+   - Engage with the Neon community on [discord](https://neon.tech/discord) and stay updated with the latest developments.
 
 ---
 
 ### Get Started with Neon Today
 
-Learn more about Neon's features at <Link href="https://neon.tech">Neon.tech</Link>.
+Learn more about Neon's features at [Neon.tech](https://neon.tech).
 
 ---
+
