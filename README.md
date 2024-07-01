@@ -44,32 +44,26 @@ Execute the command - `npm run db-create` within your terminal.
 
 ## Next Steps with Neon
 
-1. **Explore Neon Documentation:**
+1. **Explore Neon Docs:**
    - Dive into <Link href="https://neon.tech/docs">Neon's documentation</Link> for comprehensive guides and API references.
 
-2. **Implement Real-time Data Sync:**
-   - Learn how to implement real-time data sync with Neon using <Link href="https://neon.tech/docs/subscriptions">subscriptions</Link>.
+2. **Discover Best Practices:**
+   - Learn best practices for optimizing db performance with Neon's <Link href="https://neon.tech/guides">guides</Link>.
 
-3. **Optimize Database Performance:**
-   - Discover best practices for optimizing database performance with Neon's <Link href="https://neon.tech/docs/guides">guides</Link>.
+3. **Stay Updated:**
+   - Read about the latest features and updates on the Neon <Link href="https://neon.tech/blog">blog</Link>.
 
-4. **Secure Your Neon Application:**
-   - Ensure your application's security with Neon's <Link href="https://neon.tech/docs/security">built-in security features</Link>.
+4. **See Case Studies:**
+   - Explore how companies are using Neon in real-world scenarios on <Link href="https://neon.tech/case-studies">case studies</Link> page.
 
-5. **Extend with Plugins and Integrations:**
-   - Explore available plugins and integrations to extend Neon's functionality on the <Link href="https://neon.tech/plugins">Neon website</Link>.
+5. **Enterprise Solutions:**
+   - Learn how Neon can support enterprise needs on <Link href="https://neon.tech/enterprise">enterprise</Link> page.
 
-6. **Join the Neon Community:**
+6. **Branching Strategies:**
+   - Discover effective branching strategies with Neon on <Link href="https://neon.tech/branching">branching</Link> page.
+
+7. **Join the Neon Community:**
    - Engage with the Neon community on <Link href="https://neon.tech/discord">discord</Link> and stay updated with the latest developments.
----
-
-### Why Use Neon?
-
-Neon simplifies PostgreSQL management with a serverless architecture. Discover its benefits:
-
-- **Scalability:** Easily scale with your app's needs.
-- **Real-time Sync:** Ensure data is up-to-date across all devices.
-- **Security:** Built-in protections keep your data safe.
 
 ---
 
