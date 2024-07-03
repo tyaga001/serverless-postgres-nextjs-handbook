@@ -4,6 +4,16 @@
 
 Welcome to the Serverless Postgres Next.js Handbook. Follow these steps to get started:
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Next Steps](#next-steps)
+- [Get Started with Neon Today](#get-started-with-neon-today)
+
+## Introduction
+
+[Neon](https://neon.tech) is a serverless Postgres platform designed to help you build reliable and scalable applications faster. We separate compute and storage to offer modern developer features such as autoscaling, branching, point-in-time restore, and more. Get started today with our generous free tier.
+
 ## Getting Started
 
 1. **Clone the repository:**
