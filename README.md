@@ -1,8 +1,8 @@
-# Serverless Postgres Next.js Handbook
+#  Neon Postgres Database and Next.js Handbook
 
 ![App Screenshot](images/app-screenshot-post.png)
 
-Welcome to the Serverless Postgres Next.js Handbook. Follow these steps to get started:
+Welcome to the Neon Postgres Database and Next.js Handbook. Follow these steps to get started:
 
 ## Table of Contents
 - [Introduction](#introduction)
