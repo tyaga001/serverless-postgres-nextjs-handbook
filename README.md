@@ -5,10 +5,17 @@
 Welcome to the Neon Postgres Database and Next.js Handbook. Follow these steps to get started:
 
 ## Table of Contents
+- [Tutorial](#tutorial)
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Next Steps](#next-steps)
 - [Get Started with Neon Today](#get-started-with-neon-today)
+
+
+## Tutorial
+
+This project is based on the following tutorial:
+[Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)
 
 ## Introduction
 
